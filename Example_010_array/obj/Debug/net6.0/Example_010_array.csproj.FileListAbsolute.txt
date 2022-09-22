@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\Example_010_array.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\Example_010_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\Example_010_array.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\Example_010_array.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\Example_010_array.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\bin\Debug\net6.0\Example_010_array.exe
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\bin\Debug\net6.0\Example_010_array.deps.json
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\bin\Debug\net6.0\Example_010_array.runtimeconfig.json
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\bin\Debug\net6.0\Example_010_array.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\bin\Debug\net6.0\Example_010_array.pdb
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\Example_010_array.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\refint\Example_010_array.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\Example_010_array.pdb
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\Example_010_array.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_010_array\obj\Debug\net6.0\ref\Example_010_array.dll
