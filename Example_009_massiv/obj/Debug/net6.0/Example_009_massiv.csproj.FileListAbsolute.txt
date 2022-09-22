@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\bin\Debug\net6.0\Example_009_massiv.exe
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\bin\Debug\net6.0\Example_009_massiv.deps.json
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\bin\Debug\net6.0\Example_009_massiv.runtimeconfig.json
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\bin\Debug\net6.0\Example_009_massiv.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\bin\Debug\net6.0\Example_009_massiv.pdb
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\Example_009_massiv.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\Example_009_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\Example_009_massiv.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\Example_009_massiv.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\Example_009_massiv.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\Example_009_massiv.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\refint\Example_009_massiv.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\Example_009_massiv.pdb
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\Example_009_massiv.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_009_massiv\obj\Debug\net6.0\ref\Example_009_massiv.dll
