@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\bin\Debug\net6.0\Example_008_9numbers.exe
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\bin\Debug\net6.0\Example_008_9numbers.deps.json
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\bin\Debug\net6.0\Example_008_9numbers.runtimeconfig.json
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\bin\Debug\net6.0\Example_008_9numbers.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\bin\Debug\net6.0\Example_008_9numbers.pdb
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\Example_008_9numbers.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\Example_008_9numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\Example_008_9numbers.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\Example_008_9numbers.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\Example_008_9numbers.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\Example_008_9numbers.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\refint\Example_008_9numbers.dll
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\Example_008_9numbers.pdb
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\Example_008_9numbers.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\GeekBrains Обучение\С#\Examples2\Example_008_9numbers\obj\Debug\net6.0\ref\Example_008_9numbers.dll
